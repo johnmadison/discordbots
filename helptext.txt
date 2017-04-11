@@ -1,0 +1,8 @@
+Example usage: '!rou <bet> optional:<stake>' i.e. '!rou black 10' or just '!rou black' (the default stake is 1) 
+Valid Bets: 'even, odd, red, black, green, 1to18, 19to36, 1st12, 2nd12, 3rd12, col1, col2, col3' 
+After your bet you can specify your stake example: '!rou black 10' is a bet on black for 10 credits.
+Type '!rou board' to see a picture of the board
+Type: '!rou bal' to get your balance
+You can also bet on a single number like this '!rou 22' or '!rou 12'
+'!rou bottom5' and '!rou top5' display the respective 5 users. 
+'!rou give <user> <amount>' transfers funds to another users account. 
